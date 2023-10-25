@@ -1,0 +1,19 @@
+/* Ticket raising */
+body{
+    background-image: url("../IMAGES/login2.webp");
+}
+.container1{
+    background-color: rgb(225, 216, 216);
+    margin-top: 100px;
+    border: solid 2px black;
+}
+h1{
+	text-align: center;
+}
+.form-group{
+    padding-left: 100px;
+    padding-right:100px;
+}
+.group{
+    padding-left:100px;
+}
